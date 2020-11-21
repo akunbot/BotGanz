@@ -17,7 +17,7 @@ const BotName = 'CIMOTS BOT☄';
 const instagram = 'https://instagram.com/Iam.cimots'; 
 const telegram = 'https://t.me/Angga Gans'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://www.youtube.com/c/LIMITE CISHE';
+const youtube = 'https://www.youtube.com/LIMITE CISHE';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
